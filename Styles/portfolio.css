@@ -194,6 +194,8 @@ main section {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  margin-top: 130px;
+  margin-bottom: 115px;
 }
 .resule-column-title {
   color: #474747;
@@ -205,4 +207,38 @@ main section {
 .resume-container {
   display: flex;
   gap: 70px;
+}
+.resume-description {
+  color: #757575;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+.resume-item-title {
+  color: #474747;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+.resume-institute {
+  color: #757575;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.resume-container hr {
+  margin: 30px 0px;
+}
+/* DOwnload CV button */
+.download-cv {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 115px;
 }
